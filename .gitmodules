@@ -1,0 +1,6 @@
+[submodule "Backend/GolangBlogpostServer"]
+	path = Backend/GolangBlogpostServer
+	url = https://github.com/afdhali/GolangBlogpostServer.git
+[submodule "Frontend/AngularBlogpostServer"]
+	path = Frontend/AngularBlogpostServer
+	url = https://github.com/afdhali/AngularBlogpostServer.git
